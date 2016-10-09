@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LockScreen</string>
+    <string name="admin_desc">The app need administrator permission!</string>
+    <string name="admin_label"> Grand Permission</string>
+</resources>
